@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ExampleProj2810</string>
+    <string name="userid">Login</string>
+    <string name="set_userid">Login</string>
+    <string name="unset_userid">Logout</string>
+    <string name="send_event">Send event</string>
+    <string name="simulate_crash">Simulate crash</string>
+</resources>
